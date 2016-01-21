@@ -4,4 +4,4 @@
 在别人的一个demo基础进行了大量修改，终于达到了项目的要求。
 
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
-![](https://github.com/senlinxuefeng/CalendarView/raw/master/result/1.png)  
+![](https://github.com/senlinxuefeng/CalendarView/raw/master/result/1.png)
