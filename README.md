@@ -7,3 +7,6 @@
 ![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/22.png)
 ![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/33.png)
 ![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/44.png)
+
+
+##Developed By 
