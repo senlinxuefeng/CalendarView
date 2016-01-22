@@ -9,4 +9,4 @@
 ![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/44.png)
 
 
-##Developed By 
+##Developed By ywmingchuan@gmail.com
