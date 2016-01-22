@@ -4,7 +4,7 @@
 在别人的一个demo基础进行了大量修改，终于达到了项目的要求。
 
 ![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/11.png)<br>
-选择的日历区间
+选择的日历区间<br>
 ![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/22.png)<br>
 
 ![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/33.png)<br>
