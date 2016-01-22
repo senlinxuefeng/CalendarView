@@ -3,10 +3,10 @@
 在做项目时，遇到了日历选择器的问题，开始也是在网上找了很多相似的demo，始终没有找到一款合适自己项目的，为了满足项目的要求，
 在别人的一个demo基础进行了大量修改，终于达到了项目的要求。
 
-![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/11.png)
-![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/22.png)
-![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/33.png)
-![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/44.png)
+![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/11.png)<br>
+![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/22.png)<br>
+![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/33.png)<br>
+![](https://github.com/senlinxuefeng/CalendarView/raw/master/picture/44.png)<br>
 
 
-##Developed By ywmingchuan@gmail.com
+###Developed By ywmingchuan@gmail.com
